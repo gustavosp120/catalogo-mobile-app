@@ -37,4 +37,5 @@ Aplicativo desenvolvido como projeto final da disciplina **Mobile Development**,
 
 ## 📸 Demonstração do App
 
-![Prints do App](./assets/demo-app.png)
+<img width="1024" height="1536" alt="prints-tela" src="https://github.com/user-attachments/assets/2a6af111-dcb9-43e5-93ad-24d53236aa34" />
+
