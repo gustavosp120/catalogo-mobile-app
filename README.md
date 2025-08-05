@@ -34,3 +34,7 @@ Aplicativo desenvolvido como projeto final da disciplina **Mobile Development**,
 ├── services/           # API (Axios)
 ├── store/              # Redux Toolkit (slices, store)
 └── styles/             # Estilizações (separadas por tela)
+
+## 📸 Demonstração do App
+
+![Prints do App](./assets/demo-app.png)
